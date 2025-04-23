@@ -84,7 +84,7 @@ This project presents an intelligent churn prediction system that leverages Mach
 > **Note**: Make sure you have [Anaconda](https://www.anaconda.com/) installed on your system.  
 > This project is designed to run within an **Anaconda environment**. Use the **Anaconda Prompt** to execute the commands below.
 
-git clone https://github.com/your-username/customer-churn-prediction-telecom.git
+git clone https://github.com/PothuriRahitya/CustomerChurnPrediction.git
 cd customer-churn-prediction-telecom
 
 pip install --upgrade pip
