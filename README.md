@@ -1,4 +1,4 @@
-# Customer Churn Prediction using Machine Learning (Telecom Industry)
+# Customer Churn Prediction in Telecom Industry
 
 This project presents an intelligent churn prediction system that leverages Machine Learning to identify customers likely to discontinue telecom services. By integrating multiple algorithms through ensemble learning, the system significantly improves prediction accuracy and supports proactive customer retention strategies.
 
